@@ -183,10 +183,12 @@
 
 ```
 [Google](https://www.google.com)
+
 [Google (new browser) ](https://www.google.com){:target="_blank"}
 ```
 
 [Google](https://www.google.com)
+
 [Google (new browser) ](https://www.google.com){:target="_blank"}
 
 <br>

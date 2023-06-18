@@ -1,11 +1,11 @@
 
-# Git MarkDown Syntax
+# MarkDown Syntax
 
 <br>
 <br>
 <br>
 
-## 목차
+## Index
 
 * [Markdown 참고](#markdown-참고)
 * [Basic Syntax](#basic-syntax)

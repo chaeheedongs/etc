@@ -1,13 +1,11 @@
 
 # Git MarkDown Syntax
 
----
-
+<br>
+<br>
 <br>
 
 ## 목차
-
----
 
 * [Markdown 참고](#markdown-참고)
 * [Basic Syntax](#basic-syntax)
@@ -41,8 +39,6 @@
 <br>
 
 # markdown 참고
-
----
 
 * 해당 글은 공식 홈페이지의 문서를 기반으로 작성하였습니다.
 * [공식 홈페이지 이동](https://www.markdownguide.org)

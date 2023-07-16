@@ -383,7 +383,7 @@ H~2~0
 <br>
 <br>
 
-## superscript
+## Superscript
 
 * This is superscript
 

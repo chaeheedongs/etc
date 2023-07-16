@@ -30,7 +30,7 @@
     * [Emoji](#emoji)
     * [Highlight](#highlight)
     * [Subscript](#subscript)
-    * [Superscript](#superscript)
+    * [Superscript](#Superscript)
 
 ---
 
